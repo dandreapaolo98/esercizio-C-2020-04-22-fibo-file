@@ -12,7 +12,7 @@ per convertire un numero intero in stringa, vedere:
 
 https://github.com/marcotessarotto/exOpSys/tree/master/003.2sprintf
 */
-/*
+
 #include <unistd.h>
 #include <stdio.h>
 #include <stdlib.h>
